@@ -1,6 +1,10 @@
 # pg_instances_with_fdw
 複数のpostgresqlのインスタンスの中でfdwを介してqueryを発行することで、どのようにqueryが処理されるかを確認するためのレポジトリです。
 
+## システム構成図
+
+<img src="./pg_fdw.PNG" width="650">
+
 ## result
 
 １つのpostgresqlインスタンスをcoordinatorとして、他のインスタンスにqueryを発行した結果。
