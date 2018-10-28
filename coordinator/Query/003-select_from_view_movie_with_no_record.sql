@@ -1,0 +1,1 @@
+explain verbose SELECT * FROM view_movie where year = 2100;

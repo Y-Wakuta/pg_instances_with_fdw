@@ -1,0 +1,1 @@
+explain verbose select director from view_movie GROUP BY director;

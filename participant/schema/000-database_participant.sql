@@ -1,0 +1,1 @@
+CREATE DATABASE participant_db;

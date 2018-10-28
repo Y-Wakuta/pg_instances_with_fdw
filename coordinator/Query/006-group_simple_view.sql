@@ -1,0 +1,1 @@
+explain verbose SELECT * FROM view_reviews as vr GROUP BY vr.title,vr,grade,vr.review;

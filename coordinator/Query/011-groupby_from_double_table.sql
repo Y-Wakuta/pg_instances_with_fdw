@@ -1,0 +1,1 @@
+explain verbose select a.aid,a.nationality from actor as a left join actor_plays as ap on a.aid = ap.aid GROUP BY a.nationality,a.aid;

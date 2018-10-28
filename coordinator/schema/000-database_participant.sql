@@ -1,0 +1,1 @@
+CREATE DATABASE coordinator_db;

@@ -1,0 +1,72 @@
+Script started on 2017-12-16 23:08:54+0900
+[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004hl [?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004hlls[?1l>[?2004l
+000-pgpass.conf           [0m[01;34mQuery[0m/      typescript
+[01;32m300-get_query_result.sh[0m*  result.sql  up_system.sh
+[01;32mDockerfile[0m*               [01;34mschema[0m/
+[01;34mLog[0m/                      [01;34mscript[0m/
+[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004hccd schema[1m/[0m[0m [?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/schema
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004hcd schema      c  .../script[1m/[0m[0m [?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/script
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004hlls[?1l>[?2004l
+000-wait.sh             100-create_schema.sh
+001-create_database.sh  200-insert_sample.sh
+[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/script
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004hlls[?1l>[?2004l
+000-wait.sh             100-create_schema.sh
+001-create_database.sh  200-insert_sample.sh
+[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/script
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004hccd ../quQuery[1m/[0m[0m [?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004hlls[?1l>[?2004l
+000-query_join_simple_views.sql
+001-select_from_view_movie.sql
+002-select_from_view_movie_with_record.sql
+003-select_from_view_movie_with_no_record.sql
+004-select_from_view_plays.sql
+005-update_view_reviews.sql
+006-group_simple_view.sql
+007-select_from_view_plays.sql
+008-query_join_tables.sql
+009-group_by.sql
+100-get_tables.sql
+[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004httou t  ttouch 101-get   group_by_from    from _two_table.sql[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004htouch 101-group_by_from_two_table.sql[37Douch 101-group_by_from_two_table.sql [37Duch 101-group_by_from_two_table.sql [36Dch 101-group_by_from_two_table.sql [35Dh 101-group_by_from_two_table.sql [34D 101-group_by_from_two_table.sql [33Dc 101-group_by_from_two_table.sql[32Dco 101-group_by_from_two_table.sql[32Dd 101-group_by_from_two_table.sql[32De 101-group_by_from_two_table.sql[32D[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004hmmv 009-group_by.sql[1m [0m[0m 00
+[J000-query_join_simple_views.sql
+001-select_from_view_movie.sql
+002-select_from_view_movie_with_record.sql
+003-select_from_view_movie_with_no_record.sql
+004-select_from_view_plays.sql
+005-update_view_reviews.sql
+006-group_simple_view.sql
+007-select_from_view_plays.sql
+008-query_join_tables.sql
+009-group_by.sql[10A[0m[27m[24m[2Cmv 009-group_by.sql 00[K[19C[32m(git)-[master][39m[39m[33D9-group_by.sql[1m [0m[0m _.sqlf.sqlr.sqlo.sqlm.sql[K_.sqls.sqli.sqln.sqlg.sqll.sqle.sql_.sqlt.sqla.sqlb.sqll.sqle.sql[?1l>[?2004l
+[J[1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% [K[41C[32m(git)-[master][39m[55D[?1h=[?2004hmv 009-group_by.sql 009-group_by_from_single_table.sql[K[54Dcode 101[15P[15Ctwo[3P[10C[K[5C[32m(git)-[master][39m[19D[A[A[0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% code 101-group_by_from_two_table.sql[K[5C[32m(git)-[master][39m[19D[A[A[0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% code 101-group_by_from_two_table.sql[K[5C[32m(git)-[master][39m[19D[A[A[0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% code 101-group_by_from_two_table.sql[K[5C[32m(git)-[master][39m[19D[A[A[0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% code 101-group_by_from_two_table.sql[K[5C[32m(git)-[master][39m[19D[A[A[0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% code 101-group_by_from_two_table.sql[K[5C[32m(git)-[master][39m[19D[A[A[0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% code 101-group_by_from_two_table.sql[K[5C[32m(git)-[master][39m[19D[A[A[0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% code 101-group_by_from_two_table.sql[K[5C[32m(git)-[master][39m[19D[A[A[0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% code 101-group_by_from_two_table.sql[K[5C[32m(git)-[master][39m[19D[A[A[0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% code 101-group_by_from_two_table.sql[K[5C[32m(git)-[master][39m[19D[A[A[0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% code 101-group_by_from_two_table.sql[K[5C[32m(git)-[master][39m[19D[A[A[0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% code 101-group_by_from_two_table.sql[K[5C[32m(git)-[master][39m[19D[36Dmv 009[P[P[9C.sql 009-group_by_from_single_table.sql[K[54D[K[41C[32m(git)-[master][39m[55Dppsql -   p  ddocekr   ker ec xevc  c 0 -it coordinator /bin/bash[?1l>[?2004l
+root@2088690efcf3:/docker-entrypoint-initdb.d# [Kroot@2088690efcf3:/docker-entrypoint-initdb.d# /
+bash: /: Is a directory
+root@2088690efcf3:/docker-entrypoint-initdb.d# cd ./[K[K/
+root@2088690efcf3:/# psql -=ver[K[K[K[K-version
+psql (PostgreSQL) 9.6.6
+root@2088690efcf3:/# [1m[7m%[27m[1m[0m                                                          [0m[27m[24m[J[32m[yusuke@yusuke-System-Product-Name][00m ~/Dropbox/distributedDBtest/coordinator/Query
+% [K[41C

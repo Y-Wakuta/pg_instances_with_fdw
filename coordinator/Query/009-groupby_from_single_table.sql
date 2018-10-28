@@ -1,0 +1,1 @@
+explain verbose select nationality from actor GROUP BY nationality;

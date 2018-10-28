@@ -1,0 +1,20 @@
+version: '2'
+services:
+  participant:
+    build: ./participant
+   # tty: true
+    container_name: "participant"
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER:'yusuke'
+      - POSTGRES_PASSWORD:'a'
+
+  coordinator:
+    build: ./coordinator
+   # tty: true
+    container_name: "coordinator"
+    ports:
+      - "15432:5432"
+    links:
+      - participant:participant

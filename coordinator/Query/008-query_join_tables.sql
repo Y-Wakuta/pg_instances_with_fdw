@@ -1,0 +1,1 @@
+explain analyze select * from reviews as vr join movie_genres as vmg on vr.title = vmg.title;
