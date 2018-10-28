@@ -1,0 +1,2 @@
+# pg_instances_with_fdw
+複数のpostgresqlのインスタンスの中でfdwを介してqueryを発行することで、どのようにqueryが処理されるかを確認するためのレポジトリです。
